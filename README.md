@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dhairya dave
 - 👀 I’m interested in Hardware circuit designing
-- 🌱 I’m currently learning verilog,scilab,arduino,ltspice
+- 🌱 I’m currently learning verilog,scilab,arduino,ltspice,assmebly
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me dhairya.gdave@gmail.com
 - - 😄 Pronouns: ...
